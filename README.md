@@ -46,7 +46,7 @@ Use these credentials to test the login:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/J-S-Nafeez/flutter.git
    cd findoc_gurugram
    ```
 
